@@ -1,0 +1,11 @@
+{
+  "name": "humanizer-skills",
+  "owner": { "name": "krishnpatel-atp" },
+  "plugins": [
+    {
+      "name": "humanizer-skills",
+      "source": "./",
+      "description": "Humanizer skills for spreadsheets, slides, documents, research papers, emails, essays, word choice and code."
+    }
+  ]
+}

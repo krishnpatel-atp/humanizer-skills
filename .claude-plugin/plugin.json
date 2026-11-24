@@ -1,0 +1,7 @@
+{
+  "name": "humanizer-skills",
+  "version": "1.0.0",
+  "description": "Nine skills that remove chatbot tells from writing and code: a general humanizer plus genre rules for spreadsheets, slides, documents, research papers, emails, essays, word choice and code.",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "humanize", "style", "ai-writing"]
+}
